@@ -1,0 +1,2 @@
+# seajs
+my seajs practice
